@@ -11,6 +11,3 @@
 172.31.0.129
 
 
-[mywebservers:vars]
-mywebpackonubuntu= nginx
-mywebpackonredhat= httpd
