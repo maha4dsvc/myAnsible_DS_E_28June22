@@ -18,6 +18,5 @@ server01 java
 server02 java8
 server03 java8
 server04 java11
-server05 java8
-
+server05 java11
 
