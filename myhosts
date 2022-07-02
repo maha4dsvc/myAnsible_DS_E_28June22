@@ -11,3 +11,11 @@
 172.31.0.129
 
 
+[myservers]
+server01 java8
+server02 java8
+server03 java8
+server04 java8
+server05 java8
+
+
