@@ -19,6 +19,15 @@
          src: myindex.j2
          dest: /var/www/html/index.html
 
+  - name: download internet file 
+    get_url:
+      url: https://abhi15june22.s3.us-west-2.amazonaws.com/gameoflife.war
+      dest: /home/ubuntu/gameoflife.war
+      force_basic_auth: yes
+
+
+  
+
 
 
      
