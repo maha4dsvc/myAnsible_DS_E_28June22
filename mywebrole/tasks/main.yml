@@ -1,7 +1,7 @@
 ---
 # tasks file for mywebrole
 
-- name: intall webserver
+- name: install webserver
   apt:
    name: apache2 
-   state: satarted 
+   state: started
