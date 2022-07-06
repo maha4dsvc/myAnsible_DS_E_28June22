@@ -7,3 +7,4 @@
 - include_tasks: ConfiguringAdminDB.yml
 - include_tasks: tomservice.yml
 - include_tasks: tomstart.yml
+- include_tasks: deployjavaapplication.yml
